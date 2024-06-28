@@ -1,0 +1,183 @@
+douyu.com##.index-common-1-rrh
+douyu.com##.ActPayDialog
+douyu.com##.PrivilegeGiftModalDialog
+douyu.com##.video-info-download
+douyu.com###js-room-activity
+douyu.com###js-fix-download
+douyu.com###js-live-room-recommend
+douyu.com##.PaladinPop
+douyu.com##.double-festival-pop
+douyu.com##.firstpay-modal
+douyu.com##.noble-up-guide
+douyu.com##.pendant-wrap
+douyu.com##.summer_enter
+||wan.douyu.com^
+||club-img.douyucdn.cn^
+||cs-op.douyucdn.cn^
+||rtbapi.douyucdn.cn^
+||dotcounter.douyutv.com^
+||wan.douyu.com^
+||club-img.douyucdn.cn^
+||cs-op.douyucdn.cn^
+||rtbapi.douyucdn.cn^
+||dotcounter.douyutv.com^
+||douyucdn.cn/fish3/1.gif
+||douyu.com/japi/sign/web/getinfo
+||douyu.com/member/gamegift/gameList/
+||douyucdn.cn/butterfly-java/*?width=1200&height=100&
+||douyucdn.cn/butterfly-java/*?width=1200&height=120&
+||douyucdn.cn/butterfly-java/*?width=242&height=489&
+||douyucdn.cn/common/simplayer/assets/effect/cpsUI_
+||douyucdn.cn/dyfelocal/act/*/ad.png
+||douyucdn.cn/front-publish/live-master/js/room/IconCardAd_
+||douyucdn.cn/japi/sign/web/getinfo
+douyu.com###sign_p_1
+douyu.com##.IconCardAdBoundsBox
+douyu.com##.ScreenBannerAd
+douyu.com##.XinghaiAd
+douyu.com##.adcontainer
+aicoin.net.cn,bccn.net,douyuex.com,hkepc.com,iviewui.com,juejin.cn##.advertisement
+douyu.com##.bglink
+douyu.com##.f-sign-cont
+douyu.com##.fishop-anchor-recommands-box
+douyu.com##.giftbox
+douyu.com##.his-sign-cont
+douyu.com##.hot-sign-1
+douyu.com##.hot-sign-2
+douyu.com##.imageItem-wrap[style="width: 1200px; height: 120px;"]
+douyu.com##.imageItem-wrap[style="width: 287px; height: 559px;"]
+douyu.com##.isLink[href^="https://igxe.cn/"]
+douyu.com##.layout-Slide-banner:not([href*="douyu"])
+douyu.com##.row-4.theatre
+douyu.com##.row.row-3
+douyu.com##.tab-content.promote
+douyu.com##.vcode9-sign
+comicat.org,dapenti.com,douyu.com,iqiyi.com,jinti.com,kisssub.org,libvio.me,mvcat.com,mzh.ren,rufengso.net,v.qq.com,zhanzhangb.com##a[href*=".jd.com"]
+douyu.com##a[href*=".miaozhen.com"]
+acgdoge.net,acglala.cc,chinalawedu.com,douyu.com,dzbhdm.net,gmgard.com,hggard.com,iqiyi.com,jinti.com##a[href*=".tmall.com"]
+douyu.com##a[href*=".youzan.com"]
+douyu.com##div[id^="sign_p_"]
+douyu.com#?#.SharePanel:-abp-has(> .SharePanel-content > .SharePanel-contentTitle:-abp-contains(福利))
+douyu.com#?#.bc-wrapper:-abp-has(>.wm-view>div>.isLink[href*=".qualtrics.com/"])
+douyu.com#?#.wm-general:-abp-has(.link[href*=".tmall.com"])
+douyu.com,oschina.net#@#.follow-btn
+@@||douyucdn.cn^*-share-master/
+www.douyu.com##.giftbatter-box
+cctv.com,www.douyu.com##+js(aeld,/visibilitychange|pagehide/)
+||douyucdn.cn/adxdsp/$image
+!弹幕 ||www.douyu.com/webSocket.worker_$script
+||shark2.douyucdn.cn/front-publish/live-master/js/player_first/qvbp2p_douyu$script
+!douyu.com##+js(set, RTCPeerConnection.prototype.addTrack, noopFunc)
+wan.douyu.com
+||shark2.douyucdn.cn/front-publish/live-master/js/room/topBanner_$script
+||shark2.douyucdn.cn/front-publish/live-master/js/room/ScreenBannerAd_$script
+||shark2.douyucdn.cn/front-publish/live-master/js/room/CloseVideoAd_$script
+||shark2.douyucdn.cn/front-publish/live-master/js/room/FreeTimeAd_$script
+||shark2.douyucdn.cn/front-publish/live-master/js/room/SuspendedBallAd_$script
+douyu.com##.Title-ad, .DropMenuList-ad, .DropPane-ad
+douyu.com,huya.com##a[href^="https://g.wan."]
+||douyu.com/japi/sign/web/getinfo
+||douyu.com/member/gamegift/gameList/
+||douyucdn.cn/butterfly-java/*?width=1200&height=100&
+||douyucdn.cn/butterfly-java/*?width=1200&height=120&
+||douyucdn.cn/butterfly-java/*?width=242&height=489&
+||douyucdn.cn/common/simplayer/assets/effect/cpsUI_
+||douyucdn.cn/dyfelocal/act/*/ad.png
+||douyucdn.cn/front-publish/live-master/js/room/IconCardAd_
+||douyucdn.cn/japi/sign/web/getinfo
+douyu.com###sign_p_1
+douyu.com##.IconCardAdBoundsBox
+douyu.com##.ScreenBannerAd
+douyu.com##.XinghaiAd
+douyu.com##.adcontainer
+aicoin.net.cn,bccn.net,douyuex.com,hkepc.com,iviewui.com,juejin.cn##.advertisement
+douyu.com##.bglink
+douyu.com##.f-sign-cont
+douyu.com##.fishop-anchor-recommands-box
+douyu.com##.giftbox
+douyu.com##.his-sign-cont
+douyu.com##.hot-sign-1
+douyu.com##.hot-sign-2
+douyu.com##.imageItem-wrap[style="width: 1200px; height: 120px;"]
+douyu.com##.imageItem-wrap[style="width: 287px; height: 559px;"]
+douyu.com##.isLink[href^="https://igxe.cn/"]
+douyu.com##.layout-Slide-banner:not([href*="douyu"])
+douyu.com##.row-4.theatre
+douyu.com##.row.row-3
+douyu.com##.tab-content.promote
+douyu.com##.vcode9-sign
+comicat.org,dapenti.com,douyu.com,iqiyi.com,jinti.com,kisssub.org,libvio.me,mvcat.com,mzh.ren,rufengso.net,v.qq.com,zhanzhangb.com##a[href*=".jd.com"]
+douyu.com##a[href*=".miaozhen.com"]
+acgdoge.net,acglala.cc,chinalawedu.com,douyu.com,dzbhdm.net,gmgard.com,hggard.com,iqiyi.com,jinti.com##a[href*=".tmall.com"]
+douyu.com##a[href*=".youzan.com"]
+douyu.com##div[id^="sign_p_"]
+douyu.com#?#.SharePanel:-abp-has(> .SharePanel-content > .SharePanel-contentTitle:-abp-contains(福利))
+douyu.com#?#.bc-wrapper:-abp-has(>.wm-view>div>.isLink[href*=".qualtrics.com/"])
+douyu.com#?#.wm-general:-abp-has(.link[href*=".tmall.com"])
+douyu.com,oschina.net#@#.follow-btn
+@@||douyucdn.cn^*-share-master/
+douyu.com##.index-common-1-rrh
+douyu.com##.ActPayDialog
+douyu.com##.PrivilegeGiftModalDialog
+douyu.com##.video-info-download
+douyu.com###js-room-activity
+douyu.com###js-fix-download
+douyu.com###js-live-room-recommend
+douyu.com##.PaladinPop
+douyu.com##.double-festival-pop
+douyu.com##.firstpay-modal
+douyu.com##.noble-up-guide
+douyu.com##.pendant-wrap
+douyu.com##.summer_enter
+# [douyucdn.cn]
+0.0.0.0 bjfesdk.douyucdn.cn
+127.0.0.1 cdn.g.wan.douyu.com
+127.0.0.1 g.wan.douyu.com
+127.0.0.1 tx2play1.douyucdn.cn
+127.0.0.1 tx2play2.douyucdn.cn
+127.0.0.1 wan.douyu.com
+# [douyucdn.cn]
+127.0.0.1 bjfesdk.douyucdn.cn
+127.0.0.1 rtbapi.douyucdn.cn
+127.0.0.1 msg.douyu.com
+#www.douyu.com
+#douyu.com
+127.0.0.1 g.wan.douyu.com
+127.0.0.1 wan.douyu.com
+douyu.com##div.bglink,#lifter,[data-dysign-adid],div[class$=-ad],div[class|=ad],div.no-login,.his-sign-cont,.f-sign-cont
+||wan.douyu.com/
+douyu.com##div[class$="-ad"],div[class|=ad],div.no-login
+||douyucdn.cn/adxdsp/$image
+||wan.douyu.com/
+douyu.com,huya.com##a[href^="https://g.wan."]
+0.0.0.0 bjfesdk.douyucdn.cn
+||douyu*/upload/signs/*.swf
+||douyu.com/japi/sign/web/getinfo
+||douyu.com/member/gamegift/gameList/
+||douyucdn.cn/butterfly-java/*?width=1200&height=120&
+||douyucdn.cn/common/share/play.swf?room_id=30$domain=sgamer.com
+||douyucdn.cn/common/simplayer/assets/effect/cpsUI_
+||douyucdn.cn/dyfelocal/act/*/ad.png
+||douyucdn.cn/japi/sign/web/getinfo
+douyu.com###sign_p_1
+douyu.com##.bglink
+douyu.com##.f-sign-cont
+douyu.com##.fishop-anchor-recommands-box
+douyu.com##.giftbox
+douyu.com##.his-sign-cont
+douyu.com##.hot-sign-1
+douyu.com##.hot-sign-2
+douyu.com##.imageItem-wrap[href*=".cr-nielsen.com/"]
+douyu.com##.imageItem-wrap[style="width: 1200px; height: 120px;"]
+douyu.com##.imageItem-wrap[style="width: 287px; height: 559px;"]
+douyu.com##.row-4.theatre
+douyu.com##.row.row-3
+douyu.com##.tab-content.promote
+douyu.com##.vcode9-sign
+dapenti.com,douyu.com,iqiyi.com,jinti.com,rufengso.net,v.qq.com##a[href*=".jd.com"]
+douyu.com##a[href*=".miaozhen.com"]
+acgdoge.net,chinalawedu.com,douyu.com,dzbhdm.com,gmgard.com,hggard.com,iqiyi.com,jinti.com,youku.com##a[href*=".tmall.com"]
+douyu.com##a[href*=".youzan.com"]
+douyu.com##div[id^="sign_p_"]
+douyu.com#?#.SharePanel:-abp-has(> .SharePanel-content > .SharePanel-contentTitle:-abp-contains(福利))
+bilibili.com,douyu.com,oschina.net#@#.follow-btn
